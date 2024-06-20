@@ -63,6 +63,13 @@ This project is a web-based application that uses the Langchain RAG framework wi
 4.The processed query interacts with the SQLite database to fetch the relevant information.
 5.The response is returned to the user and displayed on the web interface.
 
+## Screenshots
+
+![image](https://github.com/Anitt/LangChainDatabaseAgent/assets/32222717/b6a2655f-66ff-410f-9079-ed7c85243441)
+
+
+![image](https://github.com/Anitt/LangChainDatabaseAgent/assets/32222717/f0a87868-be99-4194-a933-029148b553c5)
+
 
 
 
