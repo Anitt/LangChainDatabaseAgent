@@ -78,6 +78,11 @@ This project is a web-based application that uses the Langchain RAG framework wi
 
 ![image](https://github.com/Anitt/LangChainDatabaseAgent/assets/32222717/f0a87868-be99-4194-a933-029148b553c5)
 
+# Gradio Interface Screenshots
+
+![image](https://github.com/Anitt/LangChainDatabaseAgent/assets/32222717/03d868b6-45b9-4bbf-8e40-ddeac8ef58f4)
+
+
 
 
 
