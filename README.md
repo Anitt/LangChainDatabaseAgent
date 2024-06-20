@@ -50,17 +50,25 @@ This project is a web-based application that uses the Langchain RAG framework wi
 ## File Structure
 
 1.app.py: The Flask application file that handles API requests and serves the web application.
+
 2.requirements.txt: List of required Python packages.
+
 3.database.db: The SQLite database file.
+
 4.templates/: Directory containing the HTML templates for the web interface.
+
 5.env: File containing environment variables (not included in the repository).
 
 
 ## How It Works
 1.The user inputs their query in natural language through the web interface.
+
 2.The query is sent to the Flask backend via a POST request.
+
 3.The backend processes the input using the Langchain RAG framework - Agent with OpenAI.
+
 4.The processed query interacts with the SQLite database to fetch the relevant information.
+
 5.The response is returned to the user and displayed on the web interface.
 
 ## Screenshots
