@@ -51,13 +51,17 @@ This project is a web-based application that uses the Langchain RAG framework wi
 
 1.app.py: The Flask application file that handles API requests and serves the web application.
 
-2.requirements.txt: List of required Python packages.
+2.agent.py: This file contains the Langchain Agents used to interface between OpenAI and the SQL database.
 
-3.database.db: The SQLite database file.
+3.index.html: The main HTML file located in the templates directory, responsible for the user interface layout.
 
-4.templates/: Directory containing the HTML templates for the web interface.
+4.routes.py: Defines the routes and logic for handling different API endpoints in the Flask application.
 
-5.env: File containing environment variables (not included in the repository).
+5.database.db: The SQLite database file storing the movie reviews and labels.
+
+6.templates/: Directory containing additional HTML templates for the web interface.
+
+7.requirements.txt: List of required Python packages necessary to run the application.
 
 
 ## How It Works
